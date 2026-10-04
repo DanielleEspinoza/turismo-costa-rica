@@ -83,4 +83,4 @@ pip install -r requirements.txt
 
 **Danielle Espinoza**, estudiante de Ingeniería en Ciencia de Datos en LEAD University.
 
-[LinkedIn](https://www.linkedin.com/in/danielle-espinoza-abarca-8a9a2b38b)
+[LinkedIn](https://www.linkedin.com/in/danielle-espinoza-abarca)
